@@ -8,4 +8,4 @@ For over two years he has been working as a Software Engineer and has developed 
 
 *"My vision as a DA member is to provide value to the Hydrogen Ecosystem by attracting developers to join our community and by taking part in the development of Hydro products. Together we can build towards a new digital economy that will bring Fintech applications available to the people.”* 
 
-You can find Robert on [Github](https://github.com/acustiko) and [Linkedin](https://www.linkedin.com/in/robert-kodra-505770a6/).
+You can find Robert on [Github](https://github.com/robertkodra) and [Linkedin](https://www.linkedin.com/in/robert-kodra-505770a6/).
