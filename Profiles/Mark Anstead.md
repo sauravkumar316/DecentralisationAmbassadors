@@ -6,4 +6,4 @@ Mark’s Vision for Hydro:
 
 “I think that basically every platform out there, as they begin to become more technologically sound, will need protection and security for users in the digital world. With Raindrop, and Snowflake live, and Ice coming soon, I’ll continue to use the connections I have within the cryptocurrency/blockchain space as well as the business world to introduce more partners to the Hydro ecosystem. I will also leverage the Cryptocurrency Network platform to give more exposure to Hydro” — Mark Anstead
 
-Please give Mark a warm welcome! You can find him on <a href="https://www.linkedin.com/in/mark-anstead-098251108/">LinkedIn</a> & <a href="https://steemit.com/blockchain/@ansteadm/video-interview-with-andy-chorlian-from-hydrogen-platform">Steemit</a>
+You can find him on <a href="https://www.linkedin.com/in/mark-anstead-098251108/">LinkedIn</a> & <a href="https://steemit.com/blockchain/@ansteadm/video-interview-with-andy-chorlian-from-hydrogen-platform">Steemit</a>
