@@ -1,0 +1,9 @@
+# Pampey’s Background:
+
+*“My interest in crypto/blockchain, in general, started in 2017 when I began accumulating knowledge and experience on the technical aspects of blockchain/crypto. I discovered Project Hydro in February 2018 and, after reading and researching about Project Hydro, I was convinced that Hydrogen and Project Hydro would do very well in the long run. I started doing voluntary social media work on telegram, discord, and Twitter, to inform and expand the Project Hydro community. In August I was promoted to official admin in the Project Hydro telegram and at that time I created the HydroFAQsBot, which meant that the pinned post could focus more on project development updates and special announcements. HydroFAQsBot has over a thousand visitors per month and provides all the basic info about Project Hydro, including products, exchanges, awards, roadmap, token information etc.” *
+
+# Pampeys’s Vision for Hydro:
+
+*“My belief is that using public blockchain is the next step towards people empowerment. My vision for the project is to help make it a decentralized platform, which can stand alone by gaining more developers and product makers. I want to help the products get widely used, from North America to South East Asia, especially here in my country, the Philippines. In order to help meet this vision, I will continue spreading updates about Hydro across social media, and will attend blockchain conferences here in Manila. I will also encourage blockchain, and non-blockchain, developers to try Hydrogen’s set of APIs. The products are still at the early stage, but the project has shown promising development over the past nine months. I am particularly looking forward to Tide and the opportunities that will bring.” *
+
+Please give Pampey a warm welcome! You can find him on [LinkedIn](http://linkedin.com/in/pampey-raq-tripona-7b0101173) and [Twitter](https://twitter.com/RaqDBlock).
